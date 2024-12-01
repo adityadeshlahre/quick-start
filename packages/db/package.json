@@ -20,7 +20,7 @@
   "devDependencies": {
     "@repo/typescript-config": "workspace:*",
     "@types/node": "^22.9.3",
-    "prisma": "^5.22.0"
+    "prisma": "^6.0.0"
   },
   "exports": {
     ".": "./src/index.ts"
