@@ -15,7 +15,7 @@
     "@repo/types": "workspace:*",
     "@repo/typescript-config": "workspace:*",
     "@types/body-parser": "^1.19.5",
-    "@types/cors": "^2.8.17",
+    "@types/cors": "^2.8.18",
     "@types/express": "^5.0.1",
     "@types/node": "^22.15.14",
     "@typescript-eslint/eslint-plugin": "^8.32.0",
